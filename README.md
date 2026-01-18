@@ -24,7 +24,7 @@ Here is a [live demo](https://frangoteam.github.io) example of FUXA editor.
 ## Add custom Repository to Home Assistant
 Add this Repository `https://github.com/giudax/FUXA/` manually or click here to add it via `my Home Assistant`:
 
-[![Open your Home Assistant instance and show the dashboard of an add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?addon=1a422d19_fuxa-slr&repository_url=https%3A%2F%2Fgithub.com%2FSmartLiving-Rocks%2FFUXA%2F)
+[![Open your Home Assistant instance and show the dashboard of an add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?addon=1a422d19_fuxa-slr&repository_url=https%3A%2F%2Fgithub.com%2Fgiudax%2FHA_FUXA%2F)
 
 ### Here is how you do it
 - Go to Add-ons
@@ -34,7 +34,7 @@ Add this Repository `https://github.com/giudax/FUXA/` manually or click here to 
 - Paste the url `https://github.com/giudax/FUXA/`
 - Hit Add and then close
 - Refresh the page
-- The new Add-on `FUXA by SmartLiving.Rocks` is now visible
+- The new Add-on `FUXA by Giudax` is now visible
 - Click on it
 - Install the Add-on
 
