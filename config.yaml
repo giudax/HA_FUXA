@@ -3,7 +3,7 @@ description: "Easy and Web-based Process Visualization (SCADA/HMI/Dashboard) sof
 image: "frangoteam/fuxa"
 version: "1.2.9"
 url: "https://github.com/giudax/HA_FUXA"
-slug: "fuxa-slr"
+slug: "fuxa-glx"
 webui: "http://[HOST]:[PORT:1881]/home"
 panel_icon: mdi:dog
 panel_title: FUXA
